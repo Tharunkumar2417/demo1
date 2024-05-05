@@ -1,1 +1,5 @@
+<<<<<<< HEA:D
 from himachal pradesh
+=======
+from sweta 
+>>>>>>> sweta
